@@ -8,7 +8,7 @@
 
 [path选课系统](https://path.is.ed.ac.uk)  
 注：只能用于模拟选课，实际选课需要联系personal tutor。  
-同时有些课标红（如PMR）以为着20-21学年可能不会开。 
+同时有些课标红（如PMR）意味着20-21学年可能不会开。 
  
 [往年各课成绩](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/course-programme-stats/course-summary) （含均分&标准差）
 
@@ -41,10 +41,16 @@ by 清启牧
 
 ## 19-20年课件&笔记
 
-[Machine Learning and Pattern Recognition](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/)  
-[Accelerated Natural Language Processing](https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html)  
-[Probabilistic Modelling and Reasoning](http://www.inf.ed.ac.uk/teaching/courses/pmr/19-20/)  
-[Natural Language Understanding +](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_74870_1&content_id=_4290009_1)
+课程缩写| 课件链接
+---|---
+MLPR | [Machine Learning and Pattern Recognition](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/)   
+PMR | [Probabilistic Modelling and Reasoning](http://www.inf.ed.ac.uk/teaching/courses/pmr/19-20/)  
+ANLP | [Accelerated Natural Language Processing](https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html) 
+NLU+ | [Natural Language Understanding +](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_74870_1&content_id=_4290009_1)
+RL | [Reinforcement Learning](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_70929_1&content_id=_4067842_1)
+MLP | [Machine Learning Practical](http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2019.html)
+CCN | [Computational Cognitive Neuroscience](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_72597_1&content_id=_3848250_1)
+
 
 ## 其他
 

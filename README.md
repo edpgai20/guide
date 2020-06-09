@@ -43,14 +43,14 @@ by 清启牧
 
 课程缩写| 课件链接
 ---|---
-MLPR | [Machine Learning and Pattern Recognition](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/)   
+MLPR | [Machine Learning and Pattern Recognition](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/)
+MLP | [Machine Learning Practical](http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2019.html)
 PMR | [Probabilistic Modelling and Reasoning](http://www.inf.ed.ac.uk/teaching/courses/pmr/19-20/)  
 ANLP | [Accelerated Natural Language Processing](https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html) 
 NLU+ | [Natural Language Understanding +](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_74870_1&content_id=_4290009_1)
 RL | [Reinforcement Learning](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_70929_1&content_id=_4067842_1)
-MLP | [Machine Learning Practical](http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2019.html)
 CCN | [Computational Cognitive Neuroscience](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_72597_1&content_id=_3848250_1)
-
+TTDS | [Text Technologies for Data Science](http://www.inf.ed.ac.uk/teaching/courses/tts/)
 
 ## 其他
 

@@ -1,6 +1,23 @@
-# 爱大 MSc AI 2020 攻略汇总
+# 爱大 信院 2020 攻略汇总
 
 攻略尚不完整，诚邀各位同学、前辈补充/PR。
+
+## 申请阶段
+
+如果你对你的申请有任何问题，可以通过 sciengra@ed.ac.uk 联系信院硕士招生组。
+申请阶段可以提前申请校内宿舍，但是学校不会为你安排宿舍，直到uncon之后。申请时间的早晚尚不知有无影响。
+
+## uncon之后
+
+接受unconditional offer之后，你的Portal界面（就是登陆 myed.ed.ac.uk 后的界面）会在短时间内更换至新的界面。
+此时，推荐提前阅读学校的 [新学生指南](https://www.ed.ac.uk/students/new-students/getting-started-guides/getting-started-guide) 并使用其内的 checklist 一项一项打勾。
+其中激活邮箱最为重要，请按指南内说明进行操作。
+
+如果你对宿舍的申请有任何问题，可以邮件 accom.allocations@ed.ac.uk 进行询问。
+
+如果你对签证及CAS的申请有任何问题，可以邮件 studentimmigration@ed.ac.uk 进行询问。
+
+注：申请CAS时，请于 Account -> My student record -> 内的 Immigration Details 填写护照相关信息及上传护照个人信息页，学校认证后就会发放CAS。
 
 ## 选课
 
@@ -51,6 +68,8 @@ NLU+ | [Natural Language Understanding +](https://www.learn.ed.ac.uk/webapps/bla
 RL | [Reinforcement Learning](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_70929_1&content_id=_4067842_1)
 CCN | [Computational Cognitive Neuroscience](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_72597_1&content_id=_3848250_1)
 TTDS | [Text Technologies for Data Science](http://www.inf.ed.ac.uk/teaching/courses/tts/)
+
+一般来说，键入 http://www.inf.ed.ac.uk/teaching/courses/课程缩写 就能到达相关课程的主页。
 
 ## 其他
 

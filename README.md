@@ -21,16 +21,15 @@
 
 ## 选课
 
-[信院所有课程一览](https://course.inf.ed.ac.uk)
+[信院所有课程的详细信息](http://www.drps.ed.ac.uk/20-21/dpt/cx_sb_infr.htm)（课程内容、考核方式等）
 
 [path选课系统](https://path.is.ed.ac.uk)  
 注：只能用于模拟选课，实际选课需要联系personal tutor。  
-同时有些课标红（如PMR）意味着20-21学年可能不会开。 
  
 [往年各课成绩](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/course-programme-stats/course-summary) （含均分&标准差）
 
 [往年各课学生满意度问卷](http://web.inf.ed.ac.uk/infweb/student-services/ito/admin/course-survey-reports)
-（貌似需要正式账号登陆）
+（需要DICE账号登陆）
 
 ### 前辈选课推荐
 

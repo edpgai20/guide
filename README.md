@@ -5,7 +5,7 @@
 ## 申请阶段
 
 如果你对你的申请有任何问题，可以通过 sciengra@ed.ac.uk 联系信院硕士招生组。
-申请阶段可以提前申请校内宿舍，但是学校不会为你安排宿舍，直到uncon之后。申请时间的早晚尚不知有无影响。
+申请阶段可以提前申请校内宿舍，但是学校不会为你安排宿舍，直到 uncon 之后。申请时间的早晚尚不知有无影响。
 
 ## uncon之后
 
@@ -15,7 +15,7 @@
 
 如果你对宿舍的申请有任何问题，可以邮件 accom.allocations@ed.ac.uk 进行询问。
 
-如果你对签证及CAS的申请有任何问题，可以邮件 studentimmigration@ed.ac.uk 进行询问。
+如果你对签证及 CAS 的申请有任何问题，可以邮件 studentimmigration@ed.ac.uk 进行询问。
 
 注：申请CAS时，请于 Account -> My student record -> 内的 Immigration Details 填写护照相关信息及上传护照个人信息页，学校认证后就会发放CAS。
 
@@ -39,10 +39,12 @@ by 北纬五十五度的极光
 by xiaopl  
 [爱丁堡大学信息学院MSC部分选课介绍](https://zhuanlan.zhihu.com/p/66688076)  
 by 清启牧  
+[爱丁堡大学 MSc CS 硕士就读体验 (System 方向)](https://breakertt.moe/2022/05/31/edinburgh_msc_cs/)  
+by breakertt
 
 ### 各种黑话
 
-+ **课程缩写**：如MLPR、ANLP等  
++ **课程缩写**：如 MLPR、ANLP 等  
 [链接在此](https://course.inf.ed.ac.uk)  
 请参照链接里表格内 `Acronym` 一栏
 
@@ -68,7 +70,9 @@ RL | [Reinforcement Learning](https://www.learn.ed.ac.uk/webapps/blackboard/cont
 CCN | [Computational Cognitive Neuroscience](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_72597_1&content_id=_3848250_1)
 TTDS | [Text Technologies for Data Science](http://www.inf.ed.ac.uk/teaching/courses/tts/)
 
-一般来说，键入 http://www.inf.ed.ac.uk/teaching/courses/课程缩写 就能到达相关课程的主页。
+~~一般来说，键入 http://www.inf.ed.ac.uk/teaching/courses/课程缩写 就能到达相关课程的主页。~~
+
+进入 [Learn - Course Catalogue](https://www.learn.ed.ac.uk/ultra/catalog) 即可搜索课程在 Learn 上的相关页面。
 
 ## 其他
 
